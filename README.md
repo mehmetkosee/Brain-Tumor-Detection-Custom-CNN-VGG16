@@ -42,10 +42,7 @@ pip install -r requirements.txt
 Run the Notebook: Open notebooks/brain-tumor-mri-classification-custom-cnn-vgg16.ipynb using Jupyter Notebook or VS Code and execute the cells.
 
 📊 Results
-Below are the training performance metrics and the confusion matrix showing the model's classification accuracy.
-
-Training Performance (Loss & Accuracy)
-![Loss & Accuracy](loss_accuracy.png)
+Below is the confusion matrix showing the model’s classification accuracy.
 
 Confusion Matrix
 Evaluation of the model's predictions across the 4 tumor classes:
